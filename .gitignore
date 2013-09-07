@@ -1,5 +1,13 @@
 # java file
 *.class
+# tex files
+*.aux
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.pdf
 
 /apps/LocationMarker/bin/*
 

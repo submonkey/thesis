@@ -9,7 +9,8 @@
 *.toc
 *.pdf
 
-/apps/LocationMarker/bin/*
+#/apps/LocationMarker/bin/*
+/apps/*/bin/*
 
 .DS_Store
 .DS_Store?
